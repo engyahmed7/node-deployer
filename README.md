@@ -4,8 +4,6 @@ Welcome to the WeBuild Backend repository. This README serves as a comprehensive
 
 **The frontend repository is [here](https://github.com/engyahmed7/node-deployer-frontend).**
 
-The frontend repository is here.
-
 
 ## Project Overview
 
